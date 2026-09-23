@@ -4,7 +4,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node server/src/server.js"
+    "server": "node server/src/server.js",
+    "simulator":"node simulator/simulator.js"
   },
   "keywords": [],
   "author": "",
